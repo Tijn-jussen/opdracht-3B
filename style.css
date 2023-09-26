@@ -1,0 +1,223 @@
+
+
+
+body {
+
+
+
+    display: flex;
+    width: 1440px;
+    padding-bottom: 0px;
+    flex-direction: column;
+    gap: 100px;
+    background: #C8FFEB;
+
+
+
+
+
+
+}
+
+
+
+header {
+
+    width: 1440px;
+    height: 100px;
+    flex-shrink: 0;
+    background: #033BFF;
+    margin:0 auto;
+
+
+
+
+
+
+
+
+
+
+}
+main {
+
+    width: 916px;
+    height: auto;
+    flex-shrink: 0;
+    border: 8px solid #F54DE5;
+    background: #A3EF7F;
+    text-align: center;
+    margin:0 auto;
+
+
+
+
+
+
+
+
+
+
+}
+footer {
+
+    width: 1440px;
+    height: 100px;
+    flex-shrink: 0;
+    background: #E8DE7C;
+    margin:0 auto;
+    
+    
+
+
+
+
+
+
+
+
+
+
+}
+
+
+p {
+    width: 760px;
+    margin:0 auto; 
+    padding-top: 26px; 
+    font-size: 16px; 
+    font-weight: 400px;
+    padding-bottom: 71px;
+    margin:0 auto;
+ 
+
+
+
+
+
+
+}
+
+
+
+.heen {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin:0 auto;
+    
+
+
+
+
+
+
+}
+
+
+
+
+
+
+.plaatje2 {
+    
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    margin-top: 38px;
+    object-fit: cover; 
+    flex-shrink: 0;
+    object-position: 50% 40%;
+   
+    
+    
+   
+   
+   
+
+
+
+
+
+
+
+    
+}
+.plaatje1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    margin:0 auto;
+   
+
+
+
+
+
+    
+}
+
+
+section {
+
+    width: px;
+    margin: 0 auto; 
+   
+    
+
+
+
+
+
+
+
+}
+.htwee {
+    
+    width: 760px;   
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+
+    
+
+  
+
+
+
+
+
+
+
+}
+
+
+.p2 {
+    width: 760px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    
+
+
+
+
+
+
+
+
+
+}
